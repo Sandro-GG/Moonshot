@@ -1,6 +1,6 @@
 # 🌙 Moonshot
 
-**Moonshot** is a SwiftUI-based app that showcases the Apollo space missions in a visually engaging and educational way. Built as part of the "100 Days of SwiftUI" course, this project demonstrates how to decode JSON, create reusable views, and build clean navigation flows using SwiftUI.
+**Moonshot** is a SwiftUI-based app that showcases the Apollo space missions in a visually engaging and educational way. This project demonstrates how to decode JSON, create reusable views, and build clean navigation flows using SwiftUI.
 
 ---
 
